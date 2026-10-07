@@ -1,0 +1,4 @@
+numpy
+# Optional - only needed for the "Open MIDI" button (e.g. MAESTRO files):
+# pretty_midi
+# setuptools
